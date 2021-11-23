@@ -1,4 +1,4 @@
-### Rinny26README.md
+### Rinny26readme.md
 
 <!--
 **Rinny26/Rinny26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
